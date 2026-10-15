@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "fc7d1b48eb9fc030855f16a0",
+  "owner": "wunvevytv",
+  "repo": "page-c6ce418c0e1159a69a7efc65",
+  "title": "小火箭节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c6ce418c0e1159a69a7efc65",
+      "a": "小火箭节点",
+      "b": "",
+      "entity": "小火箭节点",
+      "brand": "小火箭节点",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f7cc2837fc42301c6b71e573ac3d122411fd392b8bed78ea4cf0cb34db81df89",
+      "content": {
+        "keyword1": "小火箭节点",
+        "keyword2": "",
+        "primary_entity": "小火箭节点",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭节点提供专业VPN加速器服务，多种流量套餐选择，官方下载入口。支持全球节点加速，助力畅快上网体验。",
+          "AI_DESCRIPTION": "小火箭节点提供专业VPN加速器服务，多种流量套餐选择，官方下载入口。支持全球节点加速，助力畅快上网体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --coral: #ff6b6b;\n            --warm-white: #f8f5f0;\n            --dark: #2c2c2c;\n            --light: #ffffff;\n        }\n        * { margin:0; padding:0; box-sizing:border-box; }\n        body {\n            font-family: system-ui, -apple-system, sans-serif;\n            background: var(--warm-white);\n            color: var(--dark);\n            line-height: 1.6;\n            max-width: 1280px;\n            margin: 0 auto;\n            overflow-x: hidden;\n        }\n        header {\n            background: var(--light);\n            box-shadow: 0 2px 10px rgba(0,0,0,0.08);\n            position: sticky;\n            top: 0;\n            z-index: 100;\n        }\n        .nav {\n            display: flex;\n            align-items: center;\n            justify-content: space-between;\n            padding: 1rem 5%;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: 700;\n            color: var(--coral);\n        }\n        .nav a {\n            color: var(--dark);\n            text-decoration: none;\n            margin-left: 2rem;\n            font-size: 1rem;\n        }\n        main {\n            padding: 2rem 5%;\n        }\n        h1 {\n            font-size: 2.8rem;\n            margin-bottom: 1rem;\n            color: var(--dark);\n        }\n        .hero {\n            background: linear-gradient(135deg, #fffaf0, #f8e8e8);\n            padding: 4rem 5%;\n            text-align: center;\n            border-radius: 16px;\n            margin-bottom: 3rem;\n        }\n        .hero h2 {\n            font-size: 2.2rem;\n            margin-bottom: 1rem;\n            color: var(--coral);\n        }\n        .btn {\n            display: inline-block;\n            background: var(--coral);\n            color: white;\n            padding: 12px 28px;\n            border-radius: 9999px;\n            text-decoration: none;\n            font-weight: 600;\n            margin-top: 1rem;\n            transition: all 0.3s ease;\n        }\n        .btn:hover {\n            background: #e85d5d;\n            transform: translateY(-2px);\n        }\n        .plan-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));\n            gap: 1.5rem;\n            margin: 3rem 0;\n        }\n        .plan {\n            background: white;\n            border-radius: 16px;\n            padding: 2rem;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.06);\n            transition: transform 0.3s ease;\n        }\n        .plan.featured {\n            border: 3px solid var(--coral);\n            transform: scale(1.03);\n        }\n        .plan h3 {\n            font-size: 1.5rem;\n            margin-bottom: 1rem;\n            color: var(--dark);\n        }\n        .price {\n            font-size: 2rem;\n            font-weight: 700;\n            color: var(--coral);\n            margin: 1rem 0;\n        }\n        .feature-list {\n            list-style: none;\n        }\n        .feature-list li {\n            padding: 0.5rem 0;\n            padding-left: 1.5rem;\n            position: relative;\n        }\n        .feature-list li:before {\n            content: \"✓\";\n            position: absolute;\n            left: 0;\n            color: var(--coral);\n        }\n        .steps {\n            background: white;\n            padding: 3rem;\n            border-radius: 16px;\n            margin: 3rem 0;\n        }\n        .steps h2 {\n            margin-bottom: 2rem;\n        }\n        .step {\n            display: flex;\n            margin-bottom: 2rem;\n            align-items: flex-start;\n        }\n        .step-num {\n            background: var(--coral);\n            color: white;\n            width: 40px;\n            height: 40px;\n            border-radius: 50%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            margin-right: 1.5rem;\n            flex-shrink: 0;\n        }\n        .faq-grid {\n            display: grid;\n            gap: 1rem;\n            margin: 3rem 0;\n        }\n        details {\n            background: white;\n            padding: 1.25rem;\n            border-radius: 12px;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n        }\n        summary {\n            font-weight: 600;\n            cursor: pointer;\n            font-size: 1.1rem;\n            padding: 0.75rem 0;\n        }\n        footer {\n            background: #1a1a1a;\n            color: #ccc;\n            padding: 3rem 5%;\n            text-align: center;\n            font-size: 0.9rem;\n        }\n        @media (max-width: 768px) {\n            h1 { font-size: 2.2rem; }\n            .hero h2 { font-size: 1.8rem; }\n        }\n    </style>\n\n\n    <header>\n        <nav class=\"nav\">\n            <div class=\"logo\">小火箭节点</div>\n            <div>\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#download\">下载</a>\n                <a href=\"#faq\">FAQ</a>\n            </div>\n        </nav>\n    </header>\n    <main>\n        <div class=\"hero\">\n            <h1>小火箭节点</h1>\n            <h2>专业机场加速器 | VPN节点加速服务</h2>\n            <p>全球高速节点 • 极速流量 • 官方客户端下载</p>\n            <a href=\"#download\" class=\"btn\">立即下载客户端</a>\n        </div>\n\n        <section>\n            <h2>品牌简介</h2>\n            <p>小火箭节点是一款专业网络加速器，提供稳定高速的机场节点服务。无论在家办公、在线游戏还是跨境购物，都能带来顺畅的网络体验。我们精心筛选优质节点，保障每一次连接都流畅无阻。</p>\n        </section>\n\n        <section id=\"plans\">\n            <h2>选择适合您的套餐</h2>\n            <div class=\"plan-grid\">\n                <div class=\"plan\">\n                    <h3>基础版</h3>\n                    <div class=\"price\">¥15/月</div>\n                    <div>按年付仅需 ¥150/年</div>\n                    <ul class=\"feature-list\">\n                        <li>每月100GB极速流量</li>\n                        <li>支持3台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"plan featured\">\n                    <h3>旗舰版</h3>\n                    <div class=\"price\">¥35/月</div>\n                    <div>按年付仅需 ¥350/年</div>\n                    <ul class=\"feature-list\">\n                        <li>每月300GB极速流量</li>\n                        <li>支持5台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC专线游戏加速优化</li>\n                        <li>7x24优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"plan\">\n                    <h3>团队版</h3>\n                    <div class=\"price\">¥85/月</div>\n                    <div>按年付仅需 ¥850/年</div>\n                    <ul class=\"feature-list\">\n                        <li>每月1000GB极速流量</li>\n                        <li>支持20台设备同时在线</li>\n                        <li>VIP专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"steps\">\n            <h2>简单配置流程</h2>\n            <div class=\"step\">\n                <div class=\"step-num\">1</div>\n                <div>\n                    <h3>选择套餐</h3>\n                    <p>根据您的需求选择基础版、旗舰版或团队版，立即享受高速节点服务。</p>\n                </div>\n            </div>\n            <div class=\"step\">\n                <div class=\"step-num\">2</div>\n                <div>\n                    <h3>获取订阅信息</h3>\n                    <p>登录官网后，立即获取您的专属订阅链接和节点信息。</p>\n                </div>\n            </div>\n            <div class=\"step\">\n                <div class=\"step-num\">3</div>\n                <div>\n                    <h3>下载客户端</h3>\n                    <p>点击下方按钮下载官方客户端，安装后输入订阅信息即可连接。</p>\n                </div>\n            </div>\n            <div class=\"step\">\n                <div class=\"step-num\">4</div>\n                <div>\n                    <h3>连接节点</h3>\n                    <p>选择合适的节点一键连接，享受高速网络体验。</p>\n                </div>\n            </div>\n        </section>\n\n        <section id=\"download\">\n            <h2>官方客户端下载</h2>\n            <p>立即下载小火箭节点官方客户端，畅享高速网络加速体验。</p>\n            <a href=\"#\" class=\"btn\">点击下载客户端</a>\n        </section>\n\n        <section class=\"faq-grid\">\n            <details>\n                <summary>小火箭节点是什么？</summary>\n                <p>小火箭节点是一款专业网络加速器，提供全球高速节点服务，帮助用户实现稳定快速的网络连接。</p>\n            </details>\n            <details>\n                <summary>如何选择套餐？</summary>\n                <p>根据您的流量需求和设备数量选择基础版、旗舰版或团队版，旗舰版最推荐日常使用。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台，满足不同场景需求。</p>\n            </details>\n            <details>\n                <summary>节点覆盖哪些地区？</summary>\n                <p>小火箭节点拥有覆盖全球的节点池，包括美洲、欧洲、亚洲等多个地区，满足不同地理位置访问需求。</p>\n            </details>\n            <details>\n                <summary>如何下载客户端？</summary>\n                <p>访问官网，点击\"下载客户端\"按钮，按照页面提示完成安装即可。</p>\n            </details>\n            <details>\n                <summary>售后支持如何？</summary>\n                <p>旗舰版及以上套餐提供7x24优先工单支持，团队版还有专属客户经理服务。</p>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>© 2024 小火箭节点 官网 | 机场加速器</p>\n        <p>友情链接：官方订阅 | 技术支持</p>\n    </footer>\n\n",
+          "hash": "b816c1867da8d5f10a170c1ebb9f36956a742ec6d7f39e462d58223d41eb6c33",
+          "seo": {
+            "title": "小火箭节点官网 - 机场加速器 VPN客户端下载",
+            "keywords": "小火箭节点,机场,VPN,加速器,节点下载,官网,客户端",
+            "description": "小火箭节点提供专业VPN加速器服务，多种流量套餐选择，官方下载入口。支持全球节点加速，助力畅快上网体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fengguoshuzi.cn",
+    "host": "p-89a500025a.fengguoshuzi.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "0ed428fc3d886e8707455e80de20ff8d97323155dcd052da0aaaba55582a2566",
+    "sitemap.xml": "5ed728b92c763880e7366ebe80adbef87287bd8e84fbbb2a49b222ba570fc1d0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "534681fdc058f19639a22bcdd28ab21553f4016fefb4b110cfee8f3a2684747a",
+    "robots.txt": "a0dbb36dec183f397036f82d0206e1b723a454080b4d752de1a707535bcb85e3",
+    "287b3373066511b2f1afc796240e480b.txt": "dbd9e9cdc6c46327e2a3517c6ae1457a411f9dc60053b4d4d786aa68c19f884d"
+  },
+  "revision": "750dfa1daf947e6087f97ce3fe44fb8ca80287e064c3814b3b094a7aeae8507b"
+}
